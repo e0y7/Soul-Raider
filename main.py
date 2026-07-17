@@ -170,10 +170,12 @@ def load_token():
 
 logo = f"""{Fore.MAGENTA}
 
-  ___ _  _ ___  ___  __  __ _  _ ___   _   
- |_ _| \| / __|/ _ \|  \/  | \| |_ _| /_\  
-  | || .` \__ \ (_) | |\/| | .` || | / _ \ 
- |___|_|\_|___/\___/|_|  |_|_|\_|___/_/ \_\
+  '      _________________   ____ ___.____     
+'     /   _____/\_____  \ |    |   \    |    
+'     \_____  \  /   |   \|    |   /    |    
+'     /        \/    |    \    |  /|    |___ 
+'    /_______  /\_______  /______/ |_______ \
+'            \/         \/                 \/
 {Fore.WHITE}     raiding made easy                        
  
 """
@@ -842,6 +844,44 @@ RAGEBAIT = ["""
 # JOIN SOUL AND START RAIDING
 # JOIN SOUL AND START RAIDING
 # JOIN SOUL AND START RAIDING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^^^
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^^^&
+
+
+
+
+
+
+
 # JOIN SOUL AND START RAIDING
 # JOIN SOUL AND START RAIDING
 # JOIN SOUL AND START RAIDING
@@ -902,15 +942,12 @@ SCARY = [
 ASCII = [
     r"""
 ```
-
-  /$$                                                       /$$                
- |__/                                                      |__/                
-  /$$ /$$$$$$$   /$$$$$$$  /$$$$$$  /$$$$$$/$$$$  /$$$$$$$  /$$  /$$$$$$       
- | $$| $$__  $$ /$$_____/ /$$__  $$| $$_  $$_  $$| $$__  $$| $$ |____  $$      
- | $$| $$  \ $$|  $$$$$$ | $$  \ $$| $$ \ $$ \ $$| $$  \ $$| $$  /$$$$$$$      
- | $$| $$  | $$ \____  $$| $$  | $$| $$ | $$ | $$| $$  | $$| $$ /$$__  $$      
- | $$| $$  | $$ /$$$$$$$/|  $$$$$$/| $$ | $$ | $$| $$  | $$| $$|  $$$$$$$      
- |__/|__/  |__/|_______/  \______/ |__/ |__/ |__/|__/  |__/|__/ \_______/      
+'      _________________   ____ ___.____     
+'     /   _____/\_____  \ |    |   \    |    
+'     \_____  \  /   |   \|    |   /    |    
+'     /        \/    |    \    |  /|    |___ 
+'    /_______  /\_______  /______/ |_______ \
+'            \/         \/                 \/      
                                                           
 ```
 ***BETTER [JOIN](https://discord.gg/raJTHmBeae) SOUL AND START RAIDING***
@@ -921,12 +958,13 @@ ASCII = [
     """,
     r"""
 ```
-.__                                   .__         
-|__| ____   __________   _____   ____ |__|____    
-|  |/    \ /  ___/  _ \ /     \ /    \|  \__  \   
-|  |   |  \\___ (  <_> )  Y Y  \   |  \  |/ __ \_ 
-|__|___|  /____  >____/|__|_|  /___|  /__(____  / 
-        \/     \/            \/     \/        \/
+  _________________   ____ ___.____     
+ /   _____/\_____  \ |    |   \    |    
+ \_____  \  /   |   \|    |   /    |    
+ /        \/    |    \    |  /|    |___ 
+/_______  /\_______  /______/ |_______ \
+        \/         \/                 \/
+
                                  soul on top
 ```
 ***[JOIN](https://discord.gg/raJTHmBeae) SOUL AND START RAIDING TODAY***
@@ -935,13 +973,14 @@ ASCII = [
 
     """,
     r"""
-```diff
--██╗███╗   ██╗███████╗ ██████╗ ███╗   ███╗███╗   ██╗██╗ █████╗     
--██║████╗  ██║██╔════╝██╔═══██╗████╗ ████║████╗  ██║██║██╔══██╗    
--██║██╔██╗ ██║███████╗██║   ██║██╔████╔██║██╔██╗ ██║██║███████║    
--██║██║╚██╗██║╚════██║██║   ██║██║╚██╔╝██║██║╚██╗██║██║██╔══██║    
--██║██║ ╚████║███████║╚██████╔╝██║ ╚═╝ ██║██║ ╚████║██║██║  ██║    
--╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝    
+--[[
+  _________________   ____ ___.____     
+ /   _____/\_____  \ |    |   \    |    
+ \_____  \  /   |   \|    |   /    |    
+ /        \/    |    \    |  /|    |___ 
+/_______  /\_______  /______/ |_______ \
+        \/         \/                 \/
+--]]    
                                                                
 ```
 ***[JOIN](https://discord.gg/raJTHmBeae) SOUL AND START RAIDING TODAY***
@@ -966,7 +1005,7 @@ HENTAI = [
 ⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡌⠙⠛⠛⠛⢋⣵⣿⣿⣿⣿⣿⣷⠄
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⠛⣛⣴⣿⣿⣿⣿⣿⣿⣿⣿⣷
 
-# [Uwu](https://discord.gg/raJTHmBeae) G-G-GET (uwu) W-W-WAIDED (˘³˘) B-B-BY ˚(ꈍ ω ꈍ).₊̣̇. I-I-I-[SOUL](https://pa1.aminoapps.com/5985/ded984459526799715a26557194711a049e81c6e_hq.gif) (◡ ꒳ ◡)
+# [Uwu](https://discord.gg/raJTHmBeae) G-G-GET (uwu) W-W-WAIDED (˘³˘) B-B-BY ˚(ꈍ ω ꈍ).₊̣̇. S-S-S-[SOUL](https://pa1.aminoapps.com/5985/ded984459526799715a26557194711a049e81c6e_hq.gif) (◡ ꒳ ◡)
 @everyone
     """,
     """
@@ -1086,7 +1125,27 @@ async def araid(interaction: discord.Interaction, delay: float = 0.01):
                   raid b__o__t  ﹒ s__o__cial  ﹒ to__xic__
                          `🌟`     _join to [RAID](https://tenor.com/view/playboi-carti-discord-discord-raid-gif-21005635) any server __Without Admin perms__, free to use_ :moneybag: 
  
-⠀⠀⠀⠀⠀⠀⠀                            **[JOIN](https://discord.gg/raJTHmBeae) TODAY, AND R__AI__D EVER__Y__ SERVER YOU WANT WITHOUT [ADMIN](https://tenor.com/view/mooning-show-butt-shake-butt-pants-down-gif-17077775)** @everyone
+⠀⠀⠀⠀⠀⠀⠀                            **[JOIN](https://discord.gg/soul) TODAY, AND R__AI__D EVER__Y__ SERVER YOU WANT WITHOUT [ADMIN](https://tenor.com/view/mooning-show-butt-shake-butt-pants-down-gif-17077775)** @everyone
+
+
+
+
+^^^
+
+
+
+
+
+
+
+^^^
+
+
+
+
+
+
+
     '''
     try:
         view = FloodButton(raid_message, delay)
